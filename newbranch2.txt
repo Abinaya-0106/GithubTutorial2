@@ -1,1 +1,1 @@
-new conflict1
+new conflict2
